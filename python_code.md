@@ -1,7 +1,7 @@
 # Python Code - Exploratory Data Analysis (EDA)
 
 ## Project
-**Task 5 - Exploratory Data Analysis**
+**Exploratory Data Analysis**
 
 Dataset: **TechX_Sales_Dataset (1).csv**
 
