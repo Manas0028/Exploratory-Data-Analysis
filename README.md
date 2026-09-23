@@ -1,4 +1,4 @@
-# 📊 Task 5 – Exploratory Data Analysis (EDA) using Python
+# 📊 Exploratory Data Analysis (EDA) using Python
 
 ## 📌 Project Overview
 
@@ -90,7 +90,7 @@ The dataset contains sales transaction records including:
 ## 📁 Project Structure
 
 ```text
-Task-5-Exploratory-Data-Analysis/
+Exploratory-Data-Analysis/
 │
 ├── EDA_Analysis.ipynb
 ├── python_code.md
@@ -114,13 +114,13 @@ Task-5-Exploratory-Data-Analysis/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Task-5-Exploratory-Data-Analysis.git
+git clone https://github.com/yourusername/Exploratory-Data-Analysis.git
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd Task-5-Exploratory-Data-Analysis
+cd Exploratory-Data-Analysis
 ```
 
 ### 3. Install Required Libraries
